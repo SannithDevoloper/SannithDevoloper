@@ -2,8 +2,8 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UC4Gg1gvpLGMJD3aXjEVKT1g)
 [![Linkedin Badge](https://img.shields.io/badge/-Sannith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sannith-reddy-a3221519b/)](https://www.linkedin.com/in/sannith-reddy-a3221519b/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/WebSite-Sannith-green)](https://www.Sannith)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Sannith-yellow)](https://stackoverflow.com/users/19624427/sannith-peddolla)
 
 I'm
 Full Stack Solution Architect
